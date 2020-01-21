@@ -1,0 +1,45 @@
+('C:\\Users\\berardial\\Desktop\\Bright Mark\\build\\Bright_Mark\\PKG-00.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0},
+ [('PYZ-00.pyz',
+   'C:\\Users\\berardial\\Desktop\\Bright Mark\\build\\Bright_Mark\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\berardial\\Desktop\\Bright '
+   'Mark\\build\\Bright_Mark\\localpycos\\struct.pyo',
+   'PYMODULE'),
+  ('pyimod01_os_path',
+   'C:\\Users\\berardial\\Desktop\\Bright '
+   'Mark\\build\\Bright_Mark\\localpycos\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'C:\\Users\\berardial\\Desktop\\Bright '
+   'Mark\\build\\Bright_Mark\\localpycos\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'C:\\Users\\berardial\\Desktop\\Bright '
+   'Mark\\build\\Bright_Mark\\localpycos\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('Bright_Mark',
+   'C:\\Users\\berardial\\Desktop\\Bright Mark\\Bright_Mark.py',
+   'PYSOURCE'),
+  ('Bright_Mark.exe.manifest',
+   'C:\\Users\\berardial\\Desktop\\Bright '
+   'Mark\\build\\Bright_Mark\\Bright_Mark.exe.manifest',
+   'BINARY')],
+ True,
+ False,
+ False)
